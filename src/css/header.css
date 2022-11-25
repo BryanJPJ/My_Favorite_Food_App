@@ -1,5 +1,5 @@
 header {
-    background: url("/src/assets/img/pizza_backgroundheader.png");
+    background: url("../assets/img/pizza_backgroundheader.png");
     
     background-size: cover;
     width:  100vw;
