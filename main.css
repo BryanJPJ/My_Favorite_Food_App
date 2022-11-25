@@ -11,5 +11,5 @@
 
 @font-face {
     font-family: pizzaria;
-    src: url(../assets/fonts/PIZZARIA.ttf);
+    src: url(/src/assets/fonts/PIZZARIA.ttf);
 }
