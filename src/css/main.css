@@ -1,0 +1,15 @@
+@import "/src/css/header.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+@font-face {
+    font-family: pizzaria;
+    src: url(/src/assets/fonts/PIZZARIA.ttf);
+}

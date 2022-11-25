@@ -1,0 +1,12 @@
+header {
+    background: url("/src/assets/img/pizza_backgroundheader.png");
+    
+    background-size: cover;
+    width:  100vw;
+    height: 8vw;
+}
+h1 {
+    text-align: center;
+    font-size: 3.5vw;
+    font-family: 'pizzaria';
+}
